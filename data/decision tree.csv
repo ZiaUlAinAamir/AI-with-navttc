@@ -1,0 +1,12 @@
+Age,Income (USD),Marital Status,Purchase
+25,50000,Single,No
+30,60000,Married,Yes
+35,75000,Single,Yes
+40,80000,Married,No
+45,90000,Divorced,Yes
+50,100000,Single,No
+55,70000,Married,Yes
+60,60000,Divorced,No
+65,50000,Single,Yes
+70,40000,Married,No
+Export to Sheets,,,
